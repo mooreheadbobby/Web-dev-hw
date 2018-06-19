@@ -1,0 +1,7 @@
+i. One way in which we send information is through electricity. The bandwith is the maximum capacity to which a device can send things.
+
+ii. Dns servers are connected all around the world and are responsible for giving IP addresses to another computer. Basically the DNS has all the information about an IP address and that is how it's connected.
+
+iii. data that tracks how much a user is using that server or website. or basically browsing activity in a sense.
+
+iv. The protocol, domain name, and the path.

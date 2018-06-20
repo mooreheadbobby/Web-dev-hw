@@ -1,18 +1,9 @@
-# My Intro-Web-Dev Homework Repo.
-## John Moorehead
-**I want to take this class because I am required to take a class in the summer to maintain my college eligibility for basketball. This class does seem fascinating and probably will be a good tool to know how to work well on the web.**
+<h1> assignment 3 technical report
+</h1>
+I think there can be an unlimited amount of head and body elements on a page.
 
--I didnt know that there was 3 different tiers of networks. Tier 1, 2, and 3.
+Structural markup embeds the structure of a document while semantic is used to place emphasis on one specific item as opposed to the whole structure.
 
--Bob Cahn and Vint Cerf helped create the internet
+This assignment took me the longest of the assignments because I had to use so many different coding options that I never had to use before. This really tested my ability to follow instructions as well as figure it out on my own a little bit.
 
----
-### My Resources
-Our Textbook is *HTML and CSS* by **John Duckett**
-
-```
-Our Textbook is *HTML and CSS* by **John Duckett**
-```
-[For more info visit our website](https://media-ed-online.github.io/intro-web-dev/)
- 
-![](http://bit.ly/2DIVG46)
+<img src="./images/Screenshot.png">

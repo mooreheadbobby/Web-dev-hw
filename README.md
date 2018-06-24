@@ -6,4 +6,4 @@ Structural markup embeds the structure of a document while semantic is used to p
 
 This assignment took me the longest of the assignments because I had to use so many different coding options that I never had to use before. This really tested my ability to follow instructions as well as figure it out on my own a little bit.
 
-<img src="./images/Screenshot.png">
+<img src="./images/Screenshot.png"> p

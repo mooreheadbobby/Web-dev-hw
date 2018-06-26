@@ -1,0 +1,83 @@
+* {font-family: 'Paytone+One','Acme', serif, Georgia;}
+h1, h2 {
+  font-family: 'Paytone+One';
+}
+p {
+  font-family: Georgia;
+}
+.text-container {
+  background-color: #8f9184;
+  padding: 4em;
+  margin: 3em;
+}
+.content p:first-child {
+  text-indent: 0;
+}
+.content p:first-child:first-letter {
+  font-family: 'Acme';
+  font-size: 4em;
+  letter-spacing: 8px;
+  font-weight: 400;
+  color: rgb(126, 11, 28);
+}
+
+#title {
+  text-align: left;
+  margin-bottom: 8em;
+  color: rgb(52, 80, 230);
+}
+#title h1 {
+  font-family:cursive;
+  font-size: 3em;
+  letter-spacing: 3px;
+  margin-bottom: 0em;
+  color: rgb(126, 11, 28);}
+#title h3 {
+  font-family:'Paytone+One';
+}
+#title p {
+  font-family: cursive;
+}
+}.content {
+  font-size: 1.25em;
+  text-indent: 1.5em;
+  line-height: 1.45em;
+  font-weight: 400;
+}
+.content {
+  font-size: 1.25em;
+  text-indent: 1.5em;
+  line-height: 1.45em;
+  font-weight: 400;
+}
+.divider {
+  border-bottom: 3px solid rgb(52, 80, 230);
+  width: 20%;
+  margin: 4em auto;
+}
+.button p {
+
+  font-size: 1.25em;
+  text-align: center;
+  color: #FFFFFF;
+  border: 1rem solid;
+  border-bottom-style: dashed;
+  border-radius: 10px 5% / 20px 30px;
+  }
+  a:link {
+   color: #79AF33;
+   text-decoration: none;
+}
+.button:hover {
+    color: #383636;
+    font-style: italic;
+}
+
+.button:active {
+    color: #fff;
+    background-color: rgb(17, 127, 126);
+    border-color: #383636 #8f8b8b #8f8b8b #383636;
+    border-width: 15px 9px 9px 15px;
+}
+
+}

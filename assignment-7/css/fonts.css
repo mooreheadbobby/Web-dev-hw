@@ -1,0 +1,9 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Paytone+One');
+</style>
+
+@font-face {
+font-family: 'Paytone+One', 'Acme', Georgia;
+src: url ('../fonts/acme-regular.ttf')
+}

@@ -10,3 +10,4 @@ Web safe fonts are those that are typically preloaded as system fonts but are fo
 Fallback fonts are important because if for whatever reason the font you chose fails, then the backup font goes into effect, so it is vrtually a backup plan that does it automatically if their font fails.
 
 This assignment was a difficult one for a few reasons. Getting the fonts to change was a process because for a while they weren't changing on the website until I realized that I wasn't using web fonts so the fonts I was using were affective on my website. The other confusing part was the first letter getting chnaged to a big letter. I tried very hard to just change a few letter fronts to a big letter with different font but for whatever reason whenever I tried to change it I couldn't get the first letter to be nromal but I ended up leaving it because it looks cool.
+<img src="./screenshot.png">

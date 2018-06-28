@@ -1,9 +1,14 @@
-<h1> assignment 3 technical report
-</h1>
-I think there can be an unlimited amount of head and body elements on a page.
+<h1>Assignment 2</h1>
 
-Structural markup embeds the structure of a document while semantic is used to place emphasis on one specific item as opposed to the whole structure.
+<p>
+A version control system is what allows a person to make changes to something and to be able to track those changes. This allows the person to keep track and make lists of what changes they made. We use this in this class because it makes sharing much easier and this is an intro class so easy is better.
+</p>
+<p>
+This was a learning step for me. I honestly have no idea how to do any of this so it took some playing around. The website helped greatly.
+</p>
+<p>
+[my responses](./responses.txt)
+<p>
 
-This assignment took me the longest of the assignments because I had to use so many different coding options that I never had to use before. This really tested my ability to follow instructions as well as figure it out on my own a little bit.
-
-<img src="./images/Screenshot.png"> p
+<p>
+![screenshot](./images/assignment-2-screenshot.png)
